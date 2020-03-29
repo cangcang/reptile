@@ -1,0 +1,9 @@
+executablePath: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome
+needHost: https://www.baidu.com/
+needUrl: https://www.baidu.com/
+userName: userName
+userPasswd: userPasswd
+userNameSelector: ""
+passwdSelector: ""
+loginSelector: ""
+

@@ -1,0 +1,22 @@
+{
+  "name": "reptile",
+  "version": "1.0.0",
+  "description": "1、npm init 2、npm i puppeteer-core",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cangcang/reptile.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cangcang/reptile/issues"
+  },
+  "homepage": "https://github.com/cangcang/reptile#readme",
+  "dependencies": {
+    "puppeteer-core": "^2.1.1"
+  }
+}
